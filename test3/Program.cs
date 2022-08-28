@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// summa=a+b
+int number1 = 2;
+int number2 = 5;
+int sum = number1 + number2;
+Console.WriteLine(sum);
