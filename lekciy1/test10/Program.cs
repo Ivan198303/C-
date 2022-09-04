@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Нахождения максимального через функцию
 Console.WriteLine("Hello, World!");
